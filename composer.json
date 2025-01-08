@@ -13,7 +13,6 @@
     "require": {
         "php": "^8.0",
         "beberlei/doctrineextensions": "^1.2",
-        "sylius/sylius": "~1.11 || ~1.12 || ~1.13",
         "sylius/resource-bundle": "^1.6",
         "symfony/config": "^5.4 || ^6.0",
         "symfony/lock": "^5.4 || ^6.0",
