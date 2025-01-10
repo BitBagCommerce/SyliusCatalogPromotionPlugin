@@ -54,9 +54,6 @@
         "symfony/http-foundation": "^4.4 || ^5.0.7",
         "doctrine/persistence": "^2.5 || ^3.0"
     },
-    "conflict": {
-        "behat/mink-selenium2-driver": ">=1.7.0"
-    },
     "config": {
         "sort-packages": true,
         "allow-plugins": {
