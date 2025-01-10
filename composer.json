@@ -14,6 +14,7 @@
         "php": "^8.0",
         "beberlei/doctrineextensions": "^1.2",
         "sylius/resource-bundle": "^1.6",
+        "sylius/sylius": "^1.12",
         "symfony/config": "^5.4 || ^6.0",
         "symfony/lock": "^5.4 || ^6.0",
         "thecodingmachine/safe": "^1.1",
